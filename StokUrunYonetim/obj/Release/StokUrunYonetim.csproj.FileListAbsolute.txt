@@ -1,0 +1,14 @@
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Release\StokUrunYonetim.ParcaForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Release\StokUrunYonetim.MainForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Release\StokUrunYonetim.ParcaStokForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Release\StokUrunYonetim.Properties.Resources.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Release\StokUrunYonetim.StokGuncelleGir.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Release\StokUrunYonetim.StoktanCikarForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Release\StokUrunYonetim.UrunEkleForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Release\StokUrunYonetim.UrunStokEkleForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Release\StokUrunYonetim.UrunStokForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Release\StokUrunYonetim.UrunStokSil.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Release\StokUrunYonetim.UrunTanimlamaForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Release\StokUrunYonetim.csproj.GenerateResource.Cache
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Release\StokUrunYonetim.exe
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Release\StokUrunYonetim.pdb

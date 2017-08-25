@@ -1,0 +1,40 @@
+C:\Users\lenovo\documents\visual studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\bin\Debug\StokUrunYonetim.exe
+C:\Users\lenovo\documents\visual studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\bin\Debug\StokUrunYonetim.pdb
+C:\Users\lenovo\documents\visual studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\bin\Debug\MySql.Data.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\bin\Debug\MySql.Data.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.ParcaForm.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.MainForm.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.ParcaStokForm.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.Properties.Resources.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.StokGuncelleGir.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.csproj.GenerateResource.Cache
+C:\Users\lenovo\documents\visual studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.exe
+C:\Users\lenovo\documents\visual studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.pdb
+C:\Users\lenovo\documents\visual studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\documents\visual studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.StoktanCikarForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.UrunEkleForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.UrunTanimlamaForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.UrunGuncelleForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.exe
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.pdb
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\bin\Debug\StokUrunYonetim.exe
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\bin\Debug\StokUrunYonetim.pdb
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\bin\Debug\MySql.Data.dll
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\bin\Debug\MySql.Data.xml
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.csprojResolveAssemblyReference.cache
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.ParcaForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.MainForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.ParcaStokForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.Properties.Resources.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.StokGuncelleGir.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.StoktanCikarForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.UrunEkleForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.UrunStokForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.UrunTanimlamaForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.csproj.GenerateResource.Cache
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.UrunStokEkleForm.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.UrunStokSil.resources
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\bin\Debug\StokUrunYonetim.exe.manifest
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\bin\Debug\StokUrunYonetim.application
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.exe.manifest
+D:\Projeler\C#\StokUrunYonetim\StokUrunYonetim\obj\Debug\StokUrunYonetim.application

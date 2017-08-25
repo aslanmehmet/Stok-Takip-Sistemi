@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BBFC9B3A-2ACB-4D5D-A4C3-432A4F8691B0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StokUrunYonetim</RootNamespace>
+    <AssemblyName>StokUrunYonetim</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>FE6726777304920B900E99E343A23259D0CEDEB6</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>StokUrunYonetim_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GelistiriciGunlugu.cs" />
+    <Compile Include="Komutlar.cs" />
+    <Compile Include="ParcaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParcaForm.Designer.cs">
+      <DependentUpon>ParcaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="parca.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParcaStokForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParcaStokForm.Designer.cs">
+      <DependentUpon>ParcaStokForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StokGuncelleGir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StokGuncelleGir.Designer.cs">
+      <DependentUpon>StokGuncelleGir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StoktanCikarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StoktanCikarForm.Designer.cs">
+      <DependentUpon>StoktanCikarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunEkleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunEkleForm.Designer.cs">
+      <DependentUpon>UrunEkleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="urunParca.cs" />
+    <Compile Include="UrunStokEkleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunStokEkleForm.Designer.cs">
+      <DependentUpon>UrunStokEkleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunStokForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunStokForm.Designer.cs">
+      <DependentUpon>UrunStokForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunStokSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunStokSil.Designer.cs">
+      <DependentUpon>UrunStokSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunTanimlamaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunTanimlamaForm.Designer.cs">
+      <DependentUpon>UrunTanimlamaForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ParcaForm.resx">
+      <DependentUpon>ParcaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParcaStokForm.resx">
+      <DependentUpon>ParcaStokForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="StokGuncelleGir.resx">
+      <DependentUpon>StokGuncelleGir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StoktanCikarForm.resx">
+      <DependentUpon>StoktanCikarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunEkleForm.resx">
+      <DependentUpon>UrunEkleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunStokEkleForm.resx">
+      <DependentUpon>UrunStokEkleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunStokForm.resx">
+      <DependentUpon>UrunStokForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunStokSil.resx">
+      <DependentUpon>UrunStokSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunTanimlamaForm.resx">
+      <DependentUpon>UrunTanimlamaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="StokUrunYonetim_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
